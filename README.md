@@ -9,4 +9,4 @@ This is my first GitHub project.
 - Responsive Design
 
 ## Author
-Your Name
+Dhavan Gohel
